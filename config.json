@@ -1,0 +1,90 @@
+{
+    "bot": {
+        "owner": "885223247006793800",
+        "prefix": ".",
+        "BotStatus": "YOUTUBE MATTHE",
+        "cooldown": 8,
+        "iltifatsize": 100
+    },
+    "penals": {
+        "ban": {
+            "staff": "890649182287822862",
+            "log": "890649183168647209",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "890649182287822862",
+            "roles": "890649182216523781",
+            "log": "890649183168647209",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "890649182287822862",
+            "roles": "890672609975496745",
+            "log": "890649183168647209",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "890649182287822862",
+            "log": "890649183168647209"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "messagelog": "890649183168647209",
+        "voicelog": "890649183168647209",
+        "taglog": "890649183168647209"
+    },
+    "roles": {
+        "boosterrole": "BOOSTER ROLÜ ID",
+        "viprole": "VIP ROLÜ ID",
+        "designerrole": "TASARIMCI ROLÜ ID",
+        "musiciansrole": "MÜZİSYEN ROLÜ ID",
+        "team": "TAGLI ROLÜ ID",
+        "sponsored": "SPONSOR ROLÜ ID"
+    },
+    "channels": {
+        "chat": "890649182745006146",
+        "voicechannel": "890649183168647213",
+        "welcomechannel": "890649182745006146",
+        "rules": "890649182745006142"
+    },
+    "parents": {
+        "publicparents": "890649182745006145"
+    },
+    "registration": {
+        "unregistered": "KAYITSIZ ROLÜ ID",
+        "man": ["ERKEK ROLÜ ID", "2. ERKEK ROLÜ ID YOKSA SİL"],
+        "woman": ["KADIN ROLÜ ID", "2. KADIN ROLÜ ID YOKSA SİL"],
+        "staff": "REGİSTER ROLÜ ID",
+        "GuilDTag": "TAGINIZ",
+        "TagSymbol": "Kayıt Olunca İsim Yaşın Önüne Koyacağı Sembol",
+        "autonickname": "İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "ŞÜPHELİ HESAP ROLÜ ID",
+        "susoeciosnickname": "$ Şüpheli Hesap",
+        "oneman": "ERKEK ROLÜ ID",
+        "onewoman": "KADIN ROLÜ ID",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "SUNUCU ID",
+        "GuilDName": "SUNUCU İSMİ",
+        "GuildOwnerRole": ["OWNER ROLÜ ID"]
+    },
+    "emojis": {
+        "tada": "TADA EMOJİSİ ID",
+        "yes": "ONAY EMOJİSİ ID",
+        "no": "RED EMOJİSİ ID"
+    },
+    "buttons": {
+        "giveaway": "ÇEKİLİŞ KATILIMCISI ROLÜ ID",
+        "activity": "ETKİNLİK KATILIMCISI ROLÜ ID"
+    }
+}
